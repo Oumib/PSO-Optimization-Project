@@ -9,6 +9,7 @@ Implemented problems:
 2. **Sum of Squares Function**  
 3. **Neural Network Optimization (hidden neurons with PSO)**  
 
+
 ---
 
 ## 🛠️ Tools & Technologies
